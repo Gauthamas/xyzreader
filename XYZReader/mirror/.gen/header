@@ -1,0 +1,9 @@
+#Automatically generated header file. Editing this file may cause problems.
+#Tue Sep 06 03:46:08 IST 2016
+serverVersion=2.5.9
+dexState=NO_CHANGE
+package=com.example.xyzreader
+version=4
+serverVersionCode=70
+dexManagerName=SingleDexManager
+appTheme=@style/Theme.Bacon
